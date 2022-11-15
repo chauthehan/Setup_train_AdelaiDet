@@ -1,0 +1,25 @@
+# ninja log v5
+1	523	1668448506225469441	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/cuda_version.o	3487029f5d3c6b6e
+0	9186	1668448514885520601	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cpu.o	781bfce876ef11c3
+1	10818	1668448516513530218	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/ml_nms/ml_nms.o	a6bf1a6b272a31eb
+1	11674	1668448517369535273	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cuda.o	1bf2449d279bd58f
+1	11758	1668448517453535771	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/DefROIAlign/DefROIAlign_cuda.o	d2d8905a056742ef
+1	16410	1668448522105563250	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/vision.o	724c89676ec0f276
+6	488	1668448523189569654	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/cuda_version.o	9c410af399807812
+5	9185	1668448531885621017	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cpu.o	20541eca19720b31
+6	10603	1668448533301629382	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/ml_nms/ml_nms.o	6a95deb05495dafe
+5	11880	1668448534577636917	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cuda.o	f91571d62efaa65d
+6	11919	1668448534617637155	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/DefROIAlign/DefROIAlign_cuda.o	ef71069d94e8bdf9
+6	16763	1668448539461665763	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/vision.o	447d57d346790dd4
+5	461	1668448606742063027	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/cuda_version.o	3487029f5d3c6b6e
+5	8887	1668448615166112752	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cpu.o	781bfce876ef11c3
+5	10524	1668448616802122408	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/ml_nms/ml_nms.o	a6bf1a6b272a31eb
+5	12049	1668448618326131401	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cuda.o	1bf2449d279bd58f
+5	12055	1668448618330131427	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/DefROIAlign/DefROIAlign_cuda.o	d2d8905a056742ef
+4	16990	1668448623266160559	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/vision.o	724c89676ec0f276
+5	545	1668448624394167215	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/cuda_version.o	9c410af399807812
+4	8885	1668448632734216434	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cpu.o	20541eca19720b31
+5	10659	1668448634506226892	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/ml_nms/ml_nms.o	6a95deb05495dafe
+5	11707	1668448635554233076	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/DefROIAlign/DefROIAlign_cuda.o	ef71069d94e8bdf9
+4	11856	1668448635702233951	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cuda.o	f91571d62efaa65d
+4	16719	1668448640566262656	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-3.7/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/vision.o	447d57d346790dd4

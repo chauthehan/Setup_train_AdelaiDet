@@ -1,0 +1,18 @@
+# ninja log v5
+1	558	1668447400010851249	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/cuda_version.o	b01885a448d032ec
+1	9476	1668447408914905842	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cpu.o	ea0d3133a2e2316f
+1	17881	1668447417330957407	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/DefROIAlign/DefROIAlign_cuda.o	954315e6c48ead63
+1	18157	1668447417606959097	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cuda.o	3776ad8c19924b35
+1	22297	1668447421730984351	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/vision.o	3460da22b9fc2501
+7	545	1668448855195055105	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/cuda_version.o	bf1f98c1e0a6bf97
+6	9163	1668448863811056194	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cpu.o	ea0d3133a2e2316f
+7	10374	1668448865019056405	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/ml_nms/ml_nms.o	9f2cc5077b372162
+6	11605	1668448866251056635	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cuda.o	b52a754c78689ea4
+6	11746	1668448866391056662	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/DefROIAlign/DefROIAlign_cuda.o	c55ec81e85d73698
+7	16559	1668448871203057705	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/vision.o	3460da22b9fc2501
+9	470	1668448872339057984	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/cuda_version.o	3facfe3f4e6b3f5a
+9	8562	1668448880427060324	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cpu.o	f2f96a163eafe7b8
+10	10510	1668448882375060979	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/ml_nms/ml_nms.o	21331f3b9dd01071
+9	11500	1668448883363061326	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/BezierAlign/BezierAlign_cuda.o	355fbb70ab91702b
+9	11676	1668448883539061389	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/DefROIAlign/DefROIAlign_cuda.o	f4180992bbdaa754
+10	16637	1668448888499063273	/home/iwanna/Documents/AdelaiDet/build/temp.linux-x86_64-cpython-37/home/iwanna/Documents/AdelaiDet/adet/layers/csrc/vision.o	7655f7d318c0761f
