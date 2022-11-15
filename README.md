@@ -83,6 +83,8 @@ Note that:
 
 First install Detectron2 following the official guide: [INSTALL.md](https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md).
 
+*[HAN] Have to use commit id [9eb4831], torch==1.8, python=3.8
+
 *Please use Detectron2 with commit id [9eb4831](https://github.com/facebookresearch/detectron2/commit/9eb4831f742ae6a13b8edb61d07b619392fb6543) if you have any issues related to Detectron2.*
 
 Then build AdelaiDet with:
@@ -116,6 +118,8 @@ python demo/demo.py \
 ```
 
 ### Train Your Own Models
+
+*[HAN] train model with train_custom.py, the code is used for coco format dataset
 
 To train a model with "train_net.py", first
 setup the corresponding datasets following
